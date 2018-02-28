@@ -1,3 +1,3 @@
 # hello-world
-git-hub hello-world
-I have no clue what I'm doing.
+git-hub hello-world.
+I have no idea what I'm doing.
